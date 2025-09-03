@@ -5,8 +5,8 @@
 
 ## **`Integrante/s`**
 
-- `Nombre 1`  
-- `Nombre 2`
+- `Nombre 1`  Alex Muller
+- `Nombre 2`  Ciro Rafaelle
 
 ## **`Objetivo`**
 
@@ -14,7 +14,10 @@
 
 ## **`Descripción del Proyecto`**
 
-`Explicar en qué consiste y qué se busca lograr. Completar una vez definido el proyecto.`
+Vamos a hacer una caja fuerte con varias medidas de seguridad, el objetivo es que podamos guardar cosas de forma segura.
+Va a funcionar asi: La caja va a tener un Key-Pad donde se va a poner una combinacion de 4 numeros, si la combinacion es incorrecta se va prender una luz roja y se va a reproducir un sonido de error en la bocina. Si la combinacion es correcta se va a prender una luz verde, se va a desbloquear la caja fuerte y se va a reproducir un sonido de correcto. Las medidas de seguridad que tiene la caja son estas:
+Sensor de calor: Si alguien intenta abrirla con calor extremo hara un sonido muy fuerte;
+Sensor de vibracion: Si alguien intenta abrirla a golpes hara un sonido muy fuerte;
 
 ## **`Componentes`**
 
